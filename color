@@ -1,0 +1,14 @@
+<style>
+img {
+  border: 2px solid #555;
+}
+ body
+ {
+background-color: rgb(white);
+color: black;
+}
+nav{
+color: rgb(blue);
+}
+</style>
+
